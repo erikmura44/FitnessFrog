@@ -1,1 +1,1 @@
-## Basic Fitness App written in C#
+## Basic Console Fitness App written in C#
